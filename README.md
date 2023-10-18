@@ -1,25 +1,26 @@
 # 19-alive-offline
 ## Description
-Blogging website for tech gurus and learners to make posts and comment on such posts.
+This is... Just Another Text Editor that can be downloaded for use offline.
 
 
 ### By: Caine Winters
 
 ## Usage
-- Navigate to landing page.
-- Click on nav links or "The Tech Blog" hyperlink to move to their respective pages.
-- Viewing blogs and their comments can be done while not signed in.
-- To create blogs or comments user must be signed in.
-- Either sign in to established account or create account to sign in.
-- Users will be automagically be signed out of their session after a few minutes for super security reasons.
+- Navigate to landing page (link below).
+- Type into the text editor.
+- Data is stored:  subsequent visits will still have what was last left in the editor.
+- In the website's address bar there is a download/install option for local use.
+- Click this and allow install to use same features as website app.
 
 
-### Screenshots of logos 
-![Screenshoty shots](./img/404.jpg)
+### Screenshots of app 
+![App being used in web browswer](./img/web.jpg)
+![Install option presented](./img/install.jpg)
+![App being used as installed app](./img/local.jpg)
 
 ## Links
-### [Link to repo](https://github.com/elcaine/14-Blogging-Techy)
-### [Link to app](https://techy-hero-blogging-ea74f2fd9a7c.herokuapp.com/)
+### [Link to repo](https://github.com/elcaine/19-alive-offline)
+### [Link to app](https://alive-offline-9c693f2cce54.herokuapp.com/)
 
 ### Acknowledged sources
 - Activity 28 from this module is the basis for this project.
